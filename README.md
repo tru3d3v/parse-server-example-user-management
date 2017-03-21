@@ -28,7 +28,7 @@ Development Rest Api with nodeJS, ParseServer ExpressJs
 * >cd [folder clone or download]
 * >dashboard-run-in-windows.bat
 
-#how to run dashboard in Linux platform
+# how to run dashboard in Linux platform
 
 * >npm install -g parse-dashboard
 * >cd [folder clone or download]
