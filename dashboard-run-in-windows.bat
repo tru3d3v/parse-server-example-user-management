@@ -1,0 +1,1 @@
+parse-dashboard --config config-dashboard.json --allowInsecureHTTP 0

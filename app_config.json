@@ -1,0 +1,9 @@
+{
+    "appId":"app",
+    "masterKey":"master",
+    "serverURL":"http://localhost:1338/parse",
+    "port": 1338,
+    "databaseURI":"mongodb://localhost:27017/dev_parse",
+    "groupUserManagement":{"SuperAdmin":"Super Administrator","Administrator":"Administrator","Administrator2":"Administrator2"},
+    "allowClientClassCreation":false
+}

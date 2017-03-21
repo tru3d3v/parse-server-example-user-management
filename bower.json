@@ -1,0 +1,32 @@
+{
+  "name": "parse-server-example-user-management",
+  "description": "An example Parse API server using the parse-server module",
+  "main": "app.js",
+  "authors": [
+    "Muhamad Muchlis <tru3.d3v@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ParseServer",
+    "UserManagement",
+    "AngularFormly",
+    "RESTAPi"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "api-check": "^7.5.5",
+    "angular-formly": "^8.4.1",
+    "angular-formly-templates-bootstrap": "^6.3.2",
+    "angular-route": "^1.6.3",
+    "oclazyload": "^1.1.0"
+  }
+}

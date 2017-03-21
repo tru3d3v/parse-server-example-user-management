@@ -1,0 +1,22 @@
+{
+  "name": "parse-server-example-user-management",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "mongodb": "^2.2.25",
+    "morgan": "~1.7.0",
+    "nodemailer": "^3.1.8",
+    "parse-server": "^2.3.7",
+    "pug": "~2.0.0-beta10",
+    "serve-favicon": "~2.3.2",
+    "simple-parse-smtp-adapter": "^1.0.9",
+    "xoauth2": "^1.2.0"
+  }
+}

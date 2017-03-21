@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:1338/parse",
+      "appId": "app",
+      "masterKey": "master",
+      "appName": "My Dashboard",
+      "allowInsecureHTTP":0
+    }
+  ],
+  "users":[{"user":"admin","pass":"admin"}]
+}

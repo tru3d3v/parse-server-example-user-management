@@ -1,0 +1,17 @@
+doctype html
+<html>
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/libs/bootstrap/dist/css/bootstrap.css')
+    link(rel='stylesheet', href='/libs/bootstrap/dist/css/bootstrap-theme.css')
+    script(src='/libs/api-check/dist/api-check.js')
+    script(src='/libs/angular/angular.min.js')
+    script(src='/libs/angular-formly/dist/formly.js')
+    script(src='/libs/angular-formly-templates-bootstrap/dist/angular-formly-templates-bootstrap.min.js')
+
+    script(src='/javascripts/mymodule.js')
+    script(src='/javascripts/mycontroller.js')
+
+  <body ng-app="myModule" ng-controller="MyFormCtrl as vm" >
+    block content
